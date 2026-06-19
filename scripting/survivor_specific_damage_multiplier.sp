@@ -9,7 +9,7 @@
 public Plugin myinfo =
 {
 	name = "Survivor and Weapon Specific Damage Multiplier",
-	author = "Vibecoded by Gemini AI",
+	author = "EagleRaviOrange",
 	description = "Total control over every survivor and weapon defense multiplier.",
 	version = PLUGIN_VERSION
 };
