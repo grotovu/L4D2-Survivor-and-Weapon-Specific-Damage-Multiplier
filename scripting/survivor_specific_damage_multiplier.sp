@@ -1,3 +1,8 @@
+/*
+*	Survivor and Weapon Specific Damage Multiplier
+*   Developed with the help of AI assistance.
+*/
+
 #define PLUGIN_VERSION  "1.0"
 
 #pragma semicolon 1
